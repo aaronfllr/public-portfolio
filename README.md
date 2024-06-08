@@ -2,7 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, install the Node_Modules locally:
+```bash
+npm install
+```
+Then to start the server run:
 
 ```bash
 npm run dev
@@ -13,6 +17,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+To check out the admin side go to localhose:3000/admin and use **Admin** and **Password**
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
