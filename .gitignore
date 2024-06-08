@@ -1,0 +1,14 @@
+# Devenv
+.devenv*
+devenv.local.nix
+# Environment
+.env
+
+# Node_Packages
+node_modules
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml

@@ -1,0 +1,9 @@
+{
+  "/(publicFacing)/page": "app/(publicFacing)/page.js",
+  "/(publicFacing)/blog/page": "app/(publicFacing)/blog/page.js",
+  "/(publicFacing)/resume/page": "app/(publicFacing)/resume/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/blog/page": "app/admin/blog/page.js",
+  "/admin/blog/new/page": "app/admin/blog/new/page.js",
+  "/(publicFacing)/blog/[id]/view/page": "app/(publicFacing)/blog/[id]/view/page.js"
+}

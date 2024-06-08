@@ -1,0 +1,26 @@
+= Mountain Range and Sun ASCII Art
+John Doe
+2024-06-04
+
+== Introduction
+
+This document contains an ASCII art representation of a mountain range and a sun.
+
+== Mountain Range and Sun Art
+
+....
+      \     /
+       \   /
+        \ /
+    __   |      /\
+   /  \  |     /  \        _
+  /    \ |    /    \      / \
+ /      \|   /      \    /   \
+/        \  /        \  /     \
+----------------------------------
+....
+
+== Conclusion
+
+We hope you enjoyed this more detailed ASCII art of a mountain range and a sun.
+

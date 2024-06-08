@@ -1,0 +1,83 @@
+*Aaron M. Fuller  +
+Raleigh, NC* +
+ +
+
++++<u>+++*CURRENT PROJECTS*+++</u>+++ +
+*GO MTB open* +
+
+This is a project that was founded by me and two Developer friends to fill a need in the local mountain bike community. The tech stack currently being used is Next.js and Springboot. We are utilizing an Adaptive Design system and I have built a prototype for the CI/CD pipeline between the UI and the Figma designs utilizing Next.js, Figma, Storybook, and Chromatic where our eventual component tests will live. + 
+ +
+
+*The Artisan Pantry* +
+
+This is a paid project where I am working with another developer to create a web presence for an up and coming Bakery before they launch. The tech stack is Next.js, Supabase (Open Source Firebase alternative), Postgres, and MUI's UI Library. +
+ +
+
++++<u>+++*PERSONAL PROJECTS*+++</u>+++ +
+*Fitness Tracker* +
+This is a passion project stemming from the lack of open APIs in the trackers that I have come across. The Architecture is React Native and Postgres developed in a NixOS environment. The end goal is to share workouts with friends and trainers. A much needed feature in the Group Fitness Instructor environment. +
+ +
+
++++<u>+++*RELEVANT WORK EXPERIENCE*+++</u>+++ +
+*Eliassen Group* +
+*Technical Recruiter April 2021 - March 2024* +
+
+* &#8226; Create bash scripts and assigned hotkeys to automate routine tasks +
+* &#8226; Created an automation script to track H1B candidates for immigration advisor +
+* &#8226; Automation of weekly tasks utilizing web scraping (Python & Selenium) +
+* &#8226; Build Dashboards with PowerBI for Metric tracking and prospecting corporations +
+* &#8226; Maintained GM expectations exceeding all quotas +
+ +
+*DSIStaff Inc* +
+*Technical Recruiter (promoted) August 2019 - April 2021*
+
+* &#8226; Built a prototype for a mobile GM calculator using Kivy framework and python
+* &#8226; Developed an understanding of older Java based technologies and which companies are likely to utilize +
+ +
+*Jr. Inside Sales Representative May 2019 - August 2019*
+* &#8226; Learned about open source utilization in our product and actively worked with the Lead Database Developer
+* &#8226; Utilized my healthcare background to assist with UX design and demonstrations +
+ +
+*Appalachian Regional Healthcare System, Boone, NC* +
+*Employee Wellness Specialist (promoted) May 2017 - October 2018*
+
+* &#8226; Automated common day to day excel tasks and created dashboards and graphs that were presented to the C-Suite
+* &#8226; Conduct physiological assessments; percent body fat, flexibility, muscular strength, muscular endurance and cardiorespiratory endurance. 
+* &#8226; Give group presentations promoting our program to employees going through orientation.
+* &#8226; Maintain and organize health related data for over 1000 employees. +
+ +
+*Certified Nursing Assistant January 2017 - May 2017*
+
+* &#8226; Acted as patient advocate and implemented all phases of the nursing process while caring for patients in an efficient manner. 
+* &#8226; Accurately and efficiently input data into computer systems. +
+ +
++++<u>+++*INTERNSHIP EXPERIENCE*+++</u>+++** ** +
+*Cardiopulmonary Rehabilitation Intern Fall 2015* +
+
+* &#8226; Read and attach varying lead configurations of ECGs daily. 
+* &#8226; Recognize and enforce all American College of Sports Medicine. 
+* &#8226; Guidelines for exercise testing and prescription. 
+* &#8226; Responsible for taking multiple vitals for each patient. +
+ +
++++<u>+++*PROFICIENCIES*+++</u>+++
+
+* &#8226; Skilled in Microsoft Office Software including PowerQuery and PowerBI
+* &#8226; Learning new skills 
+* &#8226; Data Reporting using Excel, Tableau, and Plotly 
+* &#8226; Strong personal communication skills 
+* &#8226; TypeScript, Kotlin, Java, Python, Javascript, SQL, React.js, NextJS, Selenium, Django, matplotlib
+* &#8226; Breaking down complex processes into easily understood concepts +
+ +
++++<u>+++*EXTERNAL PROJECTS*+++</u>+++ +
+*Present* +
+* &#8226; Starting a non-profit geared towards easing accessibility in mountain biking with a few fellow developers
+* &#8226; Building an eCommerce-like site for a local Bakery +
+ +
++++<u>+++*EDUCATION*+++</u>+++** ** +
+Appalachian State University August 2016  +
+Bachelor of Science, Exercise Science concentration in Clinical Physiology; Minor, Psychology +
+ +
++++<u>+++*PROFILES*+++</u>+++ +
+*Linkedin: https://www.linkedin.com/in/aaron-fuller-32776910b/* +
+*Github: https://github.com/aaronfllr*
+ 

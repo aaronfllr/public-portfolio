@@ -1,0 +1,4 @@
+{
+    "asciidoc.antora.enableAntoraSupport": true,
+    "git.ignoreLimitWarning": true
+}
